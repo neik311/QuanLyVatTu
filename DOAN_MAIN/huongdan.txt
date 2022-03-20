@@ -1,0 +1,14 @@
+1. Ma vat tu la duy nhat va chua toi da 10 ky tu.
+2. Ma nhan vien la duy nhat va chua toi da 13 ky tu.
+3. SOHD la duy nhat va chua toi da 20 ky tu.
+4. Danh sach nhan vien co toi da 500 nhan vien.
+5. hoa don co toi da 20 vat tu.
+6. Khong the chinh sua ma vat tu va so luong ton khi da 
+   luu vao danh sach.         
+7. Khong the chinh sua ma nhan vien khi da luu vao danh sach
+8. Khong the chinh sua thong tin hoa don khi da 
+   hoan thanh hoa don.
+9. Thoi gian tren hoa don luon lon hon nam 1900.
+10.khong the thay doi loai hoa don(N/x) khi da them vat tu
+   vao hoa don.
+11.Nhan esc 2 lan de ket thuc.
