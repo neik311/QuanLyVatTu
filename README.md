@@ -1,4 +1,4 @@
-## Đồ án quản lý vật tư - môn CTDL và GT
+## Đồ án quản lý vật tư - môn CTDL và GT (2019)
 ## Giảng Viên : 
 - Lưu Nguyễn Kỳ Thư
 ## Sinh viên thực hiện : 
