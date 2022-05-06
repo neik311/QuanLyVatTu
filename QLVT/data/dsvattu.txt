@@ -1,0 +1,17 @@
+
+Sat
+200
+Tan
+vt0001
+Thep
+200
+Tan
+vt0002
+Gach
+10000
+Vien
+vt134
+Trung
+120
+Ta
+vt0003
